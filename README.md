@@ -1,5 +1,6 @@
 # Advanced-Python-Semester3-HW
-*Homework folders for Sandeep Junnarkar's Practical Python for News Investigations data course at the Craig Newmark J-School, Semester 3, Fall 2025.*
+*Homework folders for Sandeep Junnarkar's Practical Python for News Investigations data course at the Craig Newmark J-School, Semester 3, Fall 2025.* \
+
 NOTE: Any AI code-line help is annotated within docs as: *I USED CHAT GPT/ANACONDA NAVIGATOR TO HELP WITH THIS LINE*
 
 ## Course overview:
